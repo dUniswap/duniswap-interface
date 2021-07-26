@@ -242,7 +242,7 @@ export default function Menu() {
             default:
               return (
                 <MenuFlyout>
-                  <MenuItem href="https://uniswap.org/">
+                  <MenuItem href="www.duniswap.org/">
                     <div>
                       <Trans>About</Trans>
                     </div>
@@ -254,13 +254,13 @@ export default function Menu() {
                     </div>
                     <BookOpen opacity={0.6} size={16} />
                   </MenuItem>
-                  <MenuItem href={CODE_LINK}>
+                  <MenuItem href="https://github.com/dUniswap/duniswap-interface">
                     <div>
                       <Trans>Code</Trans>
                     </div>
                     <Code opacity={0.6} size={16} />
                   </MenuItem>
-                  <MenuItem href="https://discord.gg/FCfyBSbCU5">
+                  <MenuItem href="https://discord.gg/h5pJSEkZyf">
                     <div>
                       <Trans>Discord</Trans>
                     </div>
