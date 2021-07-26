@@ -266,7 +266,7 @@ export default function Menu() {
                     </div>
                     <MessageCircle opacity={0.6} size={16} />
                   </MenuItem>
-                  <MenuItem href={infoLink}>
+                  <MenuItem href="https://uniswap-v3-info.vercel.app/#/">
                     <div>
                       <Trans>Analytics</Trans>
                     </div>
