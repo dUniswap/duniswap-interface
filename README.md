@@ -9,18 +9,18 @@
 An open source interface for Uniswap -- a protocol for decentralized exchange of Ethereum tokens.
 
 - Website: [duniswap.org](https://duniswap.org/)
-- Interface: [app.duniswap.org](https://app.duniswap.org)
+- Interface: [duniswap.org](https://duniswap.org)
 - Docs: [uniswap.org/docs/](https://uniswap.org/docs/)
-- Twitter: [@dUniswaporg](https://twitter.com/Uniswap)
+- Twitter: [@aaydenzhadams](https://twitter.com/aaydenzhadams)
 - Email: [contact@duniswap.org](mailto:contact@uniswap.org)
-- Discord: [Uniswap](https://discord.gg/FCfyBSbCU5)
+- Discord: [dUniswap](https://discord.gg/h5pJSEkZyf)
 
 ## Accessing the dUniswap Interface
 
-To access the Uniswap Interface, use an IPFS gateway link from
+To access the dUniswap (Uniswap) Interface, use an IPFS gateway link
 [Here](https://duniswap-interface.vercel.app/),
 or visit [duniswap.org](www.duniswap.org).
 
 ## Contributions
 
-For steps on local deployment, development, and code contribution, please see [CONTRIBUTING](./CONTRIBUTING.md).
+Anyone can make contributions to better serve the decentralised community. Join the Discord for more development chat.
