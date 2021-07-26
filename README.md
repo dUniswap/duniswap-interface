@@ -17,8 +17,8 @@ An open source interface for Uniswap -- a protocol for decentralized exchange of
 
 ## Accessing the dUniswap Interface
 
-To access the Uniswap Interface, use an IPFS gateway link from the
-[latest release](https://github.com/Uniswap/uniswap-interface/releases/latest),
+To access the Uniswap Interface, use an IPFS gateway link from
+[Here](https://duniswap-interface.vercel.app/),
 or visit [app.duniswap.org](https://app.duniswap.org).
 
 ## Contributions
